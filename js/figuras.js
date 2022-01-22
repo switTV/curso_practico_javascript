@@ -1,1 +1,1 @@
-alert("HASTA LA PIZZA BABY")
+const lado_cuadrado = 5;
