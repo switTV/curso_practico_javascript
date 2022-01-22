@@ -1,5 +1,7 @@
 hola soy maximo galarza
 
-tengo 18 años y estoy haciendo muchos cursos en platzi
+estoy haciendo muchos cursos en platzi
 
 ahora mismo estoy aprendiendo git, github y javascript
+
+no me gusta el colegio prefiero herramientas online como platzi
