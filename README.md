@@ -1,5 +1,8 @@
 # curso_practico_javascript
 
 ### Taller 1: figuras geometricas.
-
-- soy un objeto de una lista
+##pasos a seguir
+- definir las formulas
+- implementar las formulas en **javascript**
+- crear fnuciones
+- conectar **javascript** con HTML
